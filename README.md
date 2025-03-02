@@ -1,4 +1,6 @@
 # Praktikum_PBO_
-#Identitas
-** Rayhan Septian Wijaya
-** 24060123140123
+## 🧑🏻‍💻 Identitas
+
+- **Name:** Rayhan Septian Wijaya
+- **NIM:** 24060123140123
+  
